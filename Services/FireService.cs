@@ -16,7 +16,8 @@ namespace infeubackend.Services
 
         public FireService(HttpClient httpClient)
         {
-            _httpClient = httpClient;
+            _httpClient = httpClient ?? throw new ArgumentNullException(nameof(httpClient));
+            _httpClient.Timeout = TimeSpan.FromSeconds(120);
             
         }
 
