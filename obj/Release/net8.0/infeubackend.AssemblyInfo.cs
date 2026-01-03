@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("infeubackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb28819cacbee5d9b13c9c01ae5b2b1d56ade6f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d81e1df5224c0a5b4adff1595305e8778df8536")]
 [assembly: System.Reflection.AssemblyProductAttribute("infeubackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("infeubackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
