@@ -31,8 +31,8 @@ namespace infeubackend.Services
 
                 response.EnsureSuccessStatusCode();
 
-                var responseContent = await response.Content.ReadAsStringAsync();
-
+                using var reader = new StreamReader(await response.Content.ReadAsStreamAsync());
+                string responseContent = await reader.ReadToEndAsync();
                
                 // Parsing the body to extract JSON String
                 // string responseContent = await response.Content.ReadAsStringAsync();
@@ -76,10 +76,11 @@ namespace infeubackend.Services
 
                 return jsonBytes;
             }
-            catch(Exception ex)
+            catch(HttpRequestException exception)
             {
-                Console.WriteLine(ex);
-                throw; 
+                Console.WriteLine("\nException Caught!");
+                Console.WriteLine("Message :{0} ",exception.Message);
+                return null;
             }
 
         }

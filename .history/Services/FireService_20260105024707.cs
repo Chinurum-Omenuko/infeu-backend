@@ -76,7 +76,7 @@ namespace infeubackend.Services
 
                 return jsonBytes;
             }
-            catch(Exception ex)
+            catch(HttpRequestException exception)
             {
                 Console.WriteLine(ex);
                 throw; 

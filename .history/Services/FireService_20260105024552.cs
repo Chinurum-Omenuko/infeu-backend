@@ -76,10 +76,11 @@ namespace infeubackend.Services
 
                 return jsonBytes;
             }
-            catch(Exception ex)
+            catch(HttpRequestException exception)
             {
-                Console.WriteLine(ex);
-                throw; 
+                Console.WriteLine("\nException Caught!");
+                Console.WriteLine("Message :{0} ",exception.Message);
+                return null;
             }
 
         }
