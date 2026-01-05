@@ -164,3 +164,17 @@
 /Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/dependencies/Microsoft.Extensions.ApiDescription.Server.6.0.5/tools/net461-x86/GetDocument.Insider.exe.config
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/dependencies/Microsoft.Extensions.ApiDescription.Server.6.0.5/tools/net461/GetDocument.Insider.exe.config
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/web.config
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/appsettings.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/dependencies/Microsoft.Extensions.ApiDescription.Server.6.0.5/tools/dotnet-getdocument.deps.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/dependencies/Microsoft.Extensions.ApiDescription.Server.6.0.5/tools/dotnet-getdocument.runtimeconfig.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/dependencies/Microsoft.Extensions.ApiDescription.Server.6.0.5/tools/netcoreapp2.1/GetDocument.Insider.deps.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/dependencies/Microsoft.Extensions.ApiDescription.Server.6.0.5/tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/infeubackend.deps.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/infeubackend.runtimeconfig.json
+/Users/chinurum/Desktop/repos/infeubackend/bin/Debug/net8.0/infeubackend.staticwebassets.endpoints.json
+/Users/chinurum/Desktop/repos/infeubackend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/chinurum/Desktop/repos/infeubackend/obj/Debug/net8.0/staticwebassets/msbuild.infeubackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
